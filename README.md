@@ -7,7 +7,7 @@ of users:
 3. Admin - The person who manages users and all configuration and settings of 
 the system.
 
-Flow of the project
+# Flow of the project
 1. The user and the owner will register and login to the app. 
 2. At the time of the registration the owner will enter the total number of parking 
 slots. 
