@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/drawable/button.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/drawable/circle.xml" value="0.1315" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/drawable/ic_baseline_book_online_24.xml" value="0.1355" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/drawable/side_nav_bar.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_add_delete.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_adminbookingfetch.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_bookaslot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_booking.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_cancelslot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_config5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_forgotapassword.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_history.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_logout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_my_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_mylist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_adminfetch.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_forgotapassword.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_retreive.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_p_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/activity_userdetails.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/custom_list_item.xml" value="0.29683698296836986" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/mylist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/AndroidParking/AndroidParking/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
